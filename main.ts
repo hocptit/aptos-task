@@ -1,5 +1,5 @@
 console.log('Hi')
-console.log('Hi12')
+console.log('Hi')
 
 //
 //
